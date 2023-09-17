@@ -6,7 +6,7 @@ type User {
     username: String!
     email: String!
     bookCount: String
-    savedBooks: [Books]
+    savedBooks: [Book]
 }
 
 type Book {
