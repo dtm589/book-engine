@@ -12,15 +12,15 @@ This project uses a Google Books API to create a searh engine for books. You can
   * [Questions?](#questions)
 
 ## Installation
-There is no installation needed, check out the site <a href="" target="_blank">here</a>!
+There is no installation needed, check out the site <a href="https://mighty-retreat-07184-f8fbfd6353e9.herokuapp.com/" target="_blank">here</a>!
 
 ## Usage
 As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appear: <br>
-<a href="" target="_blank"><img src='./assets/demo-01.gif'></a> <br>
+<a href="https://mighty-retreat-07184-f8fbfd6353e9.herokuapp.com/" target="_blank"><img src='./assets/demo-01.gif'></a> <br>
 The user can save books by clicking "Save This Book!" under each search result, as shown in the following animation:<br>
-<a href="" target="_blank"><img src='./assets/demo-02.gif'></a> <br>
+<a href="https://mighty-retreat-07184-f8fbfd6353e9.herokuapp.com/" target="_blank"><img src='./assets/demo-02.gif'></a> <br>
 A user can view their saved books on a separate page, as shown in the following animation:<br>
-<a href="" target="_blank"><img src='./assets/demo-03.gif'></a>
+<a href="https://mighty-retreat-07184-f8fbfd6353e9.herokuapp.com/" target="_blank"><img src='./assets/demo-03.gif'></a>
 
 ## License
 
